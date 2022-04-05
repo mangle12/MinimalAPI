@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd455a97-dbf1-43a3-8f62-44114cdaedbf": {
+      "ProjectGuid": "cd455a97-dbf1-43a3-8f62-44114cdaedbf",
+      "DisplayName": "Test_MinimalAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
