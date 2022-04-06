@@ -10,7 +10,6 @@ E:\Project\Test_Minimal API\Test_MinimalAPI\bin\Debug\net6.0\Microsoft.OpenApi.d
 E:\Project\Test_Minimal API\Test_MinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\Project\Test_Minimal API\Test_MinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\Project\Test_Minimal API\Test_MinimalAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-E:\Project\Test_Minimal API\Test_MinimalAPI\obj\Debug\net6.0\Test_MinimalAPI.csproj.AssemblyReference.cache
 E:\Project\Test_Minimal API\Test_MinimalAPI\obj\Debug\net6.0\Test_MinimalAPI.GeneratedMSBuildEditorConfig.editorconfig
 E:\Project\Test_Minimal API\Test_MinimalAPI\obj\Debug\net6.0\Test_MinimalAPI.AssemblyInfoInputs.cache
 E:\Project\Test_Minimal API\Test_MinimalAPI\obj\Debug\net6.0\Test_MinimalAPI.AssemblyInfo.cs
